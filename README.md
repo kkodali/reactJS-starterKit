@@ -1,7 +1,7 @@
 # reactJS-starterKit
 Fork it for all simple react projects.
 
-Please read these insteuctions before you start.
+Please read these instructions before you start.
 
 Clone or download the zip file into your local.
 If downloaded a zip file extract to designated location as needed.
