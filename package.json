@@ -10,9 +10,9 @@
     },
     "author": "kkodali",
     "license": "ISC",
-      "dependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "dependencies": {
+        "react": "^15.6.1",
+        "react-dom": "^15.6.1"
     },
     "devDependencies": {
         "babel-core": "^6.25.0",
